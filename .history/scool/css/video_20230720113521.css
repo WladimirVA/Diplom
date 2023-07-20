@@ -1,0 +1,36 @@
+.TUTORIAL {
+    background: rgba(254, 246, 243, 1);
+}
+
+.tutorial-h1 {
+    text-align: center;
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.content-tutorial {
+    display: flex;
+    justify-content: space-around;
+    margin: 60px 0 100px 0;
+}
+
+.tutorial-inf {
+    max-width: 475px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 40px 0 0 0;
+
+}
+
+.tutorial-p {
+    margin: 60px 0 0 0;
+}

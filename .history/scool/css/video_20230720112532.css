@@ -1,0 +1,11 @@
+.TUTORIAL {
+    background: rgba(254, 246, 243, 1);
+}
+
+.tutorial-h1 {
+    text-align: center;
+}
+
+.content-tutorial {
+    display: flex
+}

@@ -1,0 +1,36 @@
+body {
+    scroll-behavior: smooth;
+    align-items: center;
+    width: 100%; 
+    max-width: 1366px; 
+    margin: auto;
+    font-family: 'Inter', 'Work Sans', "NunitoSans-Light", Arial, Helvetica, sans-serif;
+} 
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo p {
+    font-family: Lato;
+    font-size: 26px;
+    font-weight: 800;
+    line-height: 48px;
+    letter-spacing: 0.035em;
+    text-align: left;
+    text-transform: uppercase;
+    padding-left: 1em;
+
+}
+
+.header-nav {
+    display: flex;
+}
+
+.section-header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #FEF6F3;
+}
+
